@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork40", "LabWork40\LabWork40.csproj", "{2ACAF044-CF81-4812-B0D3-4B2C8D095001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{C29357E6-7020-41DE-B414-70D280EF7936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{95666708-1601-4EC5-BDBA-98ABF321D157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACAF044-CF81-4812-B0D3-4B2C8D095001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACAF044-CF81-4812-B0D3-4B2C8D095001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACAF044-CF81-4812-B0D3-4B2C8D095001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACAF044-CF81-4812-B0D3-4B2C8D095001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29357E6-7020-41DE-B414-70D280EF7936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29357E6-7020-41DE-B414-70D280EF7936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29357E6-7020-41DE-B414-70D280EF7936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29357E6-7020-41DE-B414-70D280EF7936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95666708-1601-4EC5-BDBA-98ABF321D157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95666708-1601-4EC5-BDBA-98ABF321D157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95666708-1601-4EC5-BDBA-98ABF321D157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95666708-1601-4EC5-BDBA-98ABF321D157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F205A1-5791-4A60-A6E9-B2EB03BCC4DE}
+	EndGlobalSection
+EndGlobal
